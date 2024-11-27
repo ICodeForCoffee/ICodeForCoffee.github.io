@@ -1,0 +1,17 @@
+// Currently importing everything...
+// I can cut it back once I decide what else I want to do with this layout.
+
+@import "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/scss/";
+
+$white: #ffffff;
+
+$theme-colors: (
+    "light":      #dcddd8,
+    "dark":       #1b4110,
+    "primary":    #0e4372,
+    "secondary":  #5e689f,
+    "info":       #9a4759,
+    "success":    #109755,
+    "warning":    #e0c712,
+    "danger":     #ed1007,
+);
